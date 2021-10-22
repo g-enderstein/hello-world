@@ -1,2 +1,4 @@
 # hello-world
-This is a file to test GitHub
+This is the text file to test GitHub
+ 
+This was done in vs code
